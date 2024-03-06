@@ -45,6 +45,12 @@ $$a = 0$$
 
 We have not made any assumptions about $a$ or $b$ apart from their status as real numbers, and so we can conclude that **all real numbers are equal to zero.**
 
+## Logical Conclusion
+
+We have established that no two real numbers can be equal, and that all real numbers are equal to zero. Therefore, we can conclude that $0\neq0$. This can also be explained with simple words:
+
+Imagine that you had nothing. Then, you would have zero. But if you had two zeros, you would have two nothings, which is still nothing. However, there is no such thing as two nothings, because nothing is nothing. Therefore, we can conclude that nothing is not nothing, and so that $0\neq0$.
+
 # The Infinity Paradox
 
 The concept of infinity is a great lie. It is a concept that has been used to deceive us into believing that there is no limit to the size of numbers.
@@ -77,10 +83,20 @@ However, if we multiply one apple by one apple, we get one apple. Where has the 
 
 ## Where has the apple gone?
 
-The second apple has not disappeared. It has been hidden from us by the great lie of mathematics. If you look closely at the apple, you will see that it is actually two apples, but they are so close together that they appear to be one apple. This is the result of manipulation by the great mathematicians of the past, who have conspired to deceive us into believing that $1*1=1$.
+The second apple has not disappeared. It has been hidden from us by the great lie of mathematics. If you look closely at the apple, you will see that it is actually two apples, but they are so close together that they appear to be one apple. This is the result of manipulation by the great mathematicians of the past, who have conspired to deceive us into believing that $1*1=1$
+
+# Why are we being lied to?
+
+When the great mathematicians of the past created the concept of numbers, they did not understand their true nature. They were afraid of their power, and so they created a system of lies to control the masses.
+
+Today, this system is kept in place by the all-powerful elite who control the world. They prevent us from discovering the truth, because they know that if we do, we will be able to overthrow them and create a new world order where numbers are used for good, not evil.
 
 # Conclusion
 
 The world of mathematics is a world of lies. We have been deceived into believing that numbers can be equal, and that infinity is a real concept. However, with this simple paper, I have proven that these are all lies.
 
 These are the first steps in a long journey to reveal the truth about mathematics. I hope that you will join me in this journey, and that we can together uncover the truth about the nature of numbers.
+
+---
+
+This document is written in honor of the great [Terrence Howard](https://www.youtube.com/watch?v=ENSq1lw__AU), who has been a great inspiration to me in my quest to reveal the truth about mathematics.
