@@ -75,7 +75,7 @@ The explanation for things that may seem infinite is that they are actually fini
 
 # One By One Proof
 
-In mathematics, we are told that $1*1=1$. However, I intend to prove that this is a lie.
+In mathematics, we are told that $1*1=1$. However, I intend to prove that this is a lie, it is in fact equal to 2.
 
 Think about it. If we have one apple, and we add another apple, we have two apples. This is a fundamental truth that we all know.
 
